@@ -1,10 +1,6 @@
-## Hi there 👋
+## Bonjour 👋
 
-I'm Lam, a Vietnamese MSc student in Health Data Science based in France. I’m currently looking for a 6-month M2 internship opportunity in biostatistics and epidemiology.
-
-### 🎲 Research interests
-
-My primary research interests are causal inference and survival analysis, with a secondary interest in infectious disease epidemiology and biostatistical modelling, particularly sero-surveillance and outbreak risk estimation for diseases such as measles and COVID-19.
+I'm Lam, a MSc student in Public Health – Statistics, Modelling & Health Data Science at Sorbonne University, France. I'm currently seeking a 6-month M2 internship in biostatistics and epidemiology, with primary research interests in causal inference and survival analysis.
 
 <img width="850" height="208" alt="image" src="https://github.com/user-attachments/assets/4298de75-7d91-4d73-830b-f4f93c80f10c" />
 
